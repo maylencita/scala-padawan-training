@@ -1,4 +1,4 @@
-package julienrf.course
+package com.fabernovel.training
 
 class RNG {
 

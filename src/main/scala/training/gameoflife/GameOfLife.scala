@@ -1,4 +1,4 @@
-package julienrf.course.gameoflife
+package com.fabernovel.training.gameoflife
 
 object GameOfLife {
 

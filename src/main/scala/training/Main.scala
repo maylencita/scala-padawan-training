@@ -1,4 +1,4 @@
-package julienrf.course
+package com.fabernovel.training
 
 import doodle.core._
 import doodle.jvm._
